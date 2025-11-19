@@ -35,7 +35,7 @@ The images with noises were reconstructed after training, and below are few exam
 
 ![Reconstructed Image of 6](/assets/reconstructed_6.png)
 
-![Reconstructed Image of 3](<img width="612" height="285" alt="Screenshot 2025-11-18 at 8 59 49 PM" src="https://github.com/user-attachments/assets/dd9a789f-e9a5-4f3c-ade2-90a2a300dc1c" />)
+![Reconstructed Image of 3](/assets/reconstructed_4.png)
 ## Notes
 * The model was designed so that there are only connections between visible and hidden nodes, hence Restricted Boltzmann Machine for simpler training step.
 * This implmentation closely follows the Boltzmann machine and its learning algorithm proposed by Geoffrey E. Hinton, the nobel laureate for his work on this matter.
