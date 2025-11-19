@@ -24,16 +24,18 @@ Available Arguments:
 --cdk      (int)  sampling steps for contrastive divergence k value
 ```
 Colab demo is available:
+
 [Here](https://colab.research.google.com/drive/1lZktsWvnVs3kk3NC7WKeX9ptFxZovOar?usp=sharing)
+
 
 
 
 ## Example:
 The images with noises were reconstructed after training, and below are few example results. 
 
-![Reconstructed Image of 6](<img width="515" height="248" alt="Screenshot 2025-11-18 at 8 54 48 PM" src="https://github.com/user-attachments/assets/4db6511f-1d60-4ff4-8750-3177742650be" />)
+![Reconstructed Image of 6](<img width="618" height="291" alt="Screenshot 2025-11-18 at 8 59 33 PM" src="https://github.com/user-attachments/assets/bb526ccf-77ba-4436-abca-61986f353127" />)
 
-![Reconstructed Image of 4](<img width="507" height="239" alt="Screenshot 2025-11-18 at 8 55 44 PM" src="https://github.com/user-attachments/assets/319d59f9-bbc5-4848-a86e-bae4061900a3" />)
+![Reconstructed Image of 3](<img width="612" height="285" alt="Screenshot 2025-11-18 at 8 59 49 PM" src="https://github.com/user-attachments/assets/dd9a789f-e9a5-4f3c-ade2-90a2a300dc1c" />)
 ## Notes
 * The model was designed so that there are only connections between visible and hidden nodes, hence Restricted Boltzmann Machine for simpler training step.
 * This implmentation closely follows the Boltzmann machine and its learning algorithm proposed by Geoffrey E. Hinton, the nobel laureate for his work on this matter.
