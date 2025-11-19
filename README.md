@@ -33,7 +33,7 @@ Colab demo is available:
 ## Example:
 The images with noises were reconstructed after training, and below are few example results. 
 
-![Reconstructed Image of 6](<img width="618" height="291" alt="Screenshot 2025-11-18 at 8 59 33 PM" src="https://github.com/user-attachments/assets/bb526ccf-77ba-4436-abca-61986f353127" />)
+![Reconstructed Image of 6](\assets\reconstructed_6)
 
 ![Reconstructed Image of 3](<img width="612" height="285" alt="Screenshot 2025-11-18 at 8 59 49 PM" src="https://github.com/user-attachments/assets/dd9a789f-e9a5-4f3c-ade2-90a2a300dc1c" />)
 ## Notes
